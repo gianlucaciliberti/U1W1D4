@@ -2,7 +2,11 @@
 
 
 html, body {
+    margin:0;
+    padding:0;
     font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    font-size: 1.1rem;
 }
 
 header {
@@ -62,19 +66,19 @@ blockquote p {
 }
 
 .news {
-    width: 24%;
+    width: 23%;
 }
 
 .principal {
-    width: 59%;
+    width: 58%;
 }
 
 .social {
-    width: 14%
+    width: 13%
 }
     
 .description img {
-    width:10%;
+    width:13%;
 }
 
 .description img:first-child {
