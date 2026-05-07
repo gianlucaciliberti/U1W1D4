@@ -81,7 +81,7 @@ main section {
 
 
 main section h2::before {
-    content: "- ";
+    content: "—";
     color: rgb(255, 157, 0);
 }
 
